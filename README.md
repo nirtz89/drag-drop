@@ -1,2 +1,2 @@
-# drag-drop-2
+# drag-drop
 Created with CodeSandbox
